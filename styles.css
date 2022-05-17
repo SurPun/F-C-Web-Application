@@ -374,7 +374,7 @@ header {
     left: -1em;
     width: calc(100% + 2em);
     padding-left: 1em;
-    padding-right: calc(200% + 4em);
+    padding-right: 100%;
   }
 
   .about-me__img {
